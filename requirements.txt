@@ -1,0 +1,11 @@
+###### Requirements without Version Specifiers ######
+streamlit
+streamlit-chat
+langchain
+openai
+python-dotenv
+langchain_community
+#
+###### Requirements with Version Specifiers ######
+#   See https://www.python.org/dev/peps/pep-0440/#version-specifiers
+# docopt == 0.6.1             # Version Matching. Must be version 0.6.1
